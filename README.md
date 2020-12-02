@@ -1,5 +1,5 @@
 # DataScience_Course
-Currently, I am taking online course "Data Science" at iNeuron iNtelligence
+Currently, I am taking online course "Machine Learning and Deep Learning" at iNeuron iNtelligence
 
 
 Brief information about iNeuron iNtelligence
