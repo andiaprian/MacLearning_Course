@@ -1,4 +1,4 @@
-# DataScience_Course
+# Machine Learning and Deep Learning_Course
 Currently, I am taking online course "Machine Learning and Deep Learning" at iNeuron iNtelligence
 
 
